@@ -1,7 +1,18 @@
 # Warren 2020: Debate 3 Microsite
 
+## Open Questions
+- Does the campaign have good highlight snippets avail
+
 ## Prospective Layout
 ![](./Layout-Sketch.png)
+
+## Potential Themes
+- Massively
+  - Demo: https://html5up.net/massively
+  - React component conversion: https://github.com/meddlin/rushinglabs-react-massively
+- Forty
+  - Demo: https://lufevida.github.io/html5up-forty/
+  - Raw HTML5 Template: https://github.com/lufevida/html5up-forty
 
 ## Source Content
 
@@ -25,7 +36,10 @@ https://events.elizabethwarren.com/?date=2019-09-12T04%3A00%3A00.000Z&event_type
 https://events.elizabethwarren.com/event/create/
 
 ### Video Highlights
-- Tough finding short clips, need to do more digging
+
+https://www.youtube.com/watch?v=ayDyh8fjtww
+
+![](https://www.youtube.com/watch?v=ayDyh8fjtww)
 
 ### Footer
 - [`CampaignFooter.jsx`](./CampaignFooter.jsx) is the HTML from the campaign page's footer, but I didn't try to get any of the styling.

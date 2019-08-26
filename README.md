@@ -4,7 +4,7 @@
 - Does the campaign have good highlight snippets avail
 
 ## Prospective Layout
-![](./Layout-Sketch.png)
+![](./content/Layout-Sketch.png)
 
 ## Potential Themes
 - Massively
@@ -17,7 +17,7 @@
 ## Source Content
 
 ### Banner image
-![](./warren-fist-raised.jpg)
+![](./content/warren-fist-raised.jpg)
 Source article: https://www.dailynews.com/2019/02/18/elizabeth-warren-to-speak-in-glendale-on-monday/
 
 ### What was the "Join Warren for the Debate?" prize like last time?
@@ -40,6 +40,8 @@ https://events.elizabethwarren.com/event/create/
 https://www.youtube.com/watch?v=ayDyh8fjtww
 
 ![](https://www.youtube.com/watch?v=ayDyh8fjtww)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ayDyh8fjtww?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Footer
 - [`CampaignFooter.jsx`](./CampaignFooter.jsx) is the HTML from the campaign page's footer, but I didn't try to get any of the styling.

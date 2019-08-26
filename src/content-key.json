@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "message": "Debate 3: September 12, 7:00 PM\n\n\"Why go through the trouble of running for President, just to say what we shouldn't fight for?\" -Elizabeth Warren",
+    "img_path": "./warren-fist-raised.jpg"
+  },
+  "video": {
+    "url" : "https://www.youtube.com/watch?v=ayDyh8fjtww",
+    "thumbnail_path": ""
+  },
+  "donate": {
+    "url": "https://secure.actblue.com/donate/ew-homepage-launch-050919",
+    "prompt": "",
+    "pitch": ""
+  },
+  "engage": {
+    "pitch": "",
+    "items": [
+      {
+        "prompt": "Find a Watch Party",
+        "url": "https://events.elizabethwarren.com/?date=2019-09-12T04%3A00%3A00.000Z&event_type=15&is_virtual=false"
+      },
+      {
+        "prompt": "Host a Watch Party",
+        "url": "https://events.elizabethwarren.com/event/create/"
+      }
+    ]
+  }
+}

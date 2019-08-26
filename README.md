@@ -1,7 +1,6 @@
 # Warren 2020: Debate 3 Microsite
 
-## Open Questions
-- Does the campaign have good highlight snippets avail
+Tiny `create-react-app` designed to be deployed thru GitHub Pages.  This one is to hype Elizabeth Warren at the September 12th debates, but it's designed to be easily adapted toward other issues.
 
 ## Prospective Layout
 ![](./content/Layout-Sketch.png)

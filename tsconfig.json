@@ -1,0 +1,47 @@
+{
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "es5",
+      "es6",
+      "es7",
+      "es2017",
+      "dom"
+    ],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "jsx": "preserve",
+    "strict": true,
+    "alwaysStrict": true,
+    "typeRoots": [
+      "./types",
+      "./node_modules/@types"
+    ],
+    "types": [
+      "node",
+      "react"
+    ],
+    "outDir": "dist",
+    "sourceRoot": "src",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "downlevelIteration": true,
+    "isolatedModules": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "noEmit": true
+  }
+}
+
+

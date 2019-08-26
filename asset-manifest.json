@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/septdebates/static/css/main.96b98fba.chunk.css",
+    "main.js": "/septdebates/static/js/main.2e951bc0.chunk.js",
+    "main.js.map": "/septdebates/static/js/main.2e951bc0.chunk.js.map",
+    "runtime~main.js": "/septdebates/static/js/runtime~main.56d6d7da.js",
+    "runtime~main.js.map": "/septdebates/static/js/runtime~main.56d6d7da.js.map",
+    "static/js/2.5326a3f0.chunk.js": "/septdebates/static/js/2.5326a3f0.chunk.js",
+    "static/js/2.5326a3f0.chunk.js.map": "/septdebates/static/js/2.5326a3f0.chunk.js.map",
+    "index.html": "/septdebates/index.html",
+    "precache-manifest.ffe2740f917fa83c988b967600fce7f7.js": "/septdebates/precache-manifest.ffe2740f917fa83c988b967600fce7f7.js",
+    "service-worker.js": "/septdebates/service-worker.js",
+    "static/css/main.96b98fba.chunk.css.map": "/septdebates/static/css/main.96b98fba.chunk.css.map"
+  }
+}

@@ -3,7 +3,7 @@
 Tiny `create-react-app` designed to be deployed thru GitHub Pages.  This one is to hype Elizabeth Warren at the September 12th debates, but it's designed to be easily adapted toward other issues.
 
 ## Prospective Layout
-![](./content/Layout-Sketch.png)
+![](./src/content/Layout-Sketch.png)
 
 ## Potential Themes
 - Massively
@@ -16,7 +16,7 @@ Tiny `create-react-app` designed to be deployed thru GitHub Pages.  This one is 
 ## Source Content
 
 ### Banner image
-![](./content/warren-fist-raised.jpg)
+![](./src/content/warren-fist-raised.jpg)
 Source article: https://www.dailynews.com/2019/02/18/elizabeth-warren-to-speak-in-glendale-on-monday/
 
 ### What was the "Join Warren for the Debate?" prize like last time?

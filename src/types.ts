@@ -1,7 +1,10 @@
 
 export interface Hero {
+  subject : string
   message : string
   img_path : string
+  cta_title : string
+  cta_link : string
 }
 
 export interface VideoDetails {

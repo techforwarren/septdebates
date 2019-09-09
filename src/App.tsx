@@ -1,7 +1,7 @@
 import React, { FunctionComponent } from 'react';
 import YAML from 'yaml';
 import fs from 'fs';
-import './App.css';
+import './App.scss';
 import { Hero, CampaignFooter, BigVideo } from './components';
 import { AppContent } from './types';
 

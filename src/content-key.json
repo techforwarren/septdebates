@@ -1,6 +1,9 @@
 {
   "hero": {
-    "message": "Debate 3: September 12, 7:00 PM\n\n\"Why go through the trouble of running for President, just to say what we shouldn't fight for?\" -Elizabeth Warren",
+    "subject": "Debate 3: September 12, 7:00 PM",
+    "message": "It's time we fight back",
+    "cta_title": "JOIN OUR FIGHT",
+    "cta_link": "#",
     "img_path": "./warren-fist-raised.jpg"
   },
   "video": {
